@@ -1,0 +1,70 @@
+
+body{
+    flex-basis: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
+    color : blue;
+    
+     text-align: vertical;
+   }
+   
+ 
+ 
+ h2{
+   text-align: center;
+   color: darkkhaki;
+   flex-basis: 100%;
+ 
+   
+ }
+ #inputGrams{
+    padding: 9px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: green;
+    text-transform: capitalize;
+    text-align: left;
+    flex-basis: 100%;
+    margin-left: 0;
+ 
+ }
+ #outputkilograms{
+    padding: 9px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: green;
+    text-transform: capitalize;
+    text-align: left;
+    flex-basis: 100%;
+    margin-left: 0;
+ }
+ 
+ p{
+ 
+   margin-left: left;
+    display: ruby-base-container;
+    text-align: justify;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+ }
+ 
+ #calc-Button{
+ 
+ 
+    padding: 2px;
+    border-radius: 0px;
+    box-sizing: border-box;
+    color : saddlebrown;
+    background-color: cornsilk;
+    flex-basis: 5%;
+  
+ }
+ 
+
+
+
+
+
