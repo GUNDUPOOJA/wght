@@ -36,7 +36,7 @@ body{
     box-sizing: border-box;
     color: green;
     text-transform: capitalize;
-    text-align: left;
+    text-align: center;
     flex-basis: 100%;
     margin-left: 0;
  }
@@ -45,22 +45,10 @@ body{
  
    margin-left: left;
     display: ruby-base-container;
-    text-align: justify;
+    text-align:center;
     display: flex;
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
- }
- 
- #calc-Button{
- 
- 
-    padding: 2px;
-    border-radius: 0px;
-    box-sizing: border-box;
-    color : saddlebrown;
-    background-color: cornsilk;
-    flex-basis: 5%;
-  
+    flex-direction: column;
+    flex-wrap: no-wrap;
  }
  
 
